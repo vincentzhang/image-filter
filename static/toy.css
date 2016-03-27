@@ -1,0 +1,34 @@
+body {
+  padding-top: 50px;
+}
+.starter {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.btn.active {
+  background: #2eb82e;
+  /* text-decoration: none; */
+}
+
+.btn.active.focus {
+  background: #2eb82e;
+}
+
+.btn-center {
+  margin:auto;
+  display:block;
+}
+
+.center{
+  text-align: center;
+  margin:auto;
+  display:block;
+}
+
+.med-width{
+  margin:auto;
+  width: 60%;
+}
+
+
